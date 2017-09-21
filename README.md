@@ -20,6 +20,8 @@ Be sure to Star and "Watch" this repository so you won't miss any updates ;)
 
 <b>Soon i'm going to make a version of `Server.bat` so it can run in background without anybody noticing it.</b>
 
+>Info: Every command takes about 3 to 5 seconds to send to Computer 2 and than get back to Computer 1. After 25 seconds you get <b>timeout error</b>.
+
 If you have any problems, contact me! My email: kcrplkcrpl@gmail.com
 
 ![](https://i.imgur.com/jOcx8zH.png)
