@@ -9,10 +9,10 @@ Be sure to Star and "Watch" this repository so you won't miss any updates ;)
 ![Version Badge](https://img.shields.io/github/release/KcrPL/Remote-Command-Prompt.svg?style=flat-square)
 
 # Instructions
-1) Download the 2 files.
+1) Download the 2 files. Download it from ![here](https://github.com/KcrPL/Remote-Command-Prompt/releases)
 2) On the Target computer (let's name it Computer 2) (the one that will do commands) run Server.bat. It will create a folder in `%appdata%` called `CMD`.
 3) Open `%appdata%` (In start menu type `%appdata%` and press ENTER).
-4) Find folder called `CMD`, right click it and go to `Proporties` -> go to `Sharing` tab -> `Advanced Sharing` -> Check "S`hare this folder`" -> `Permissions` -> Check "`Full Controll`" -> `Save`.
+4) Find folder called `CMD`, right click it and go to `Proporties` -> go to `Sharing` tab -> `Advanced Sharing` -> Check "`Share this folder`" -> `Permissions` -> Check "`Full Controll`" -> `Save`.
 5) On your computer (Computer 1) open `Remote_Console.bat`. Than configure it.
 6) When configuring `Remote_Console.bat` (Right now) you can save up to 5 configurations. (Computer name stands for a name that will show in the main screen and login stands for IP address of the computer that your trying to access or name in network.) <b>IF YOU DON'T KNOW THE IP ADDRESS, YOU SHOULD SEE THE COMPUTER NAME ON SERVER.BAT</b>.
 7) Wait for the computers to connect.
