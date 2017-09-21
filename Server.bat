@@ -14,7 +14,7 @@ if %correctsmb%==1 echo SMB Share [OK]
 if %correctsmb%==0 echo SMB Share [ERROR]
 echo.
 if %correctsmb%==0 echo [INFO]: This program may work incorrectly.
-
+echo [INFO]: This computer name is: \\%userdomain%
 set /a command=0
 if not exist %appdata%\CMD\command md %appdata%\CMD\command
 if not exist %appdata%\CMD\online.txt echo online>>%appdata%\CMD\online.txt
